@@ -3,7 +3,7 @@ import { useStateContext } from '../contexts/StateContextProvider'
 
 export const ImageResults = () => {
 
-    const { results, navLink } = useStateContext()
+    const { results } = useStateContext()
 
     return (
         <div className='flex flex-wrap max-w-xl'>

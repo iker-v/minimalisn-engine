@@ -10,7 +10,6 @@ export const NormalResults = ()=> {
             {results?.results?.map(({ link, title, cite }, index) => {
                 return(
                     <div key={index}>
-                        dsfd
                         <a href={link} target="_blank" rel="noreferrer">
                             <p className="leading-none text-gray-600 text-sm">
                                 {cite.domain ? cite.domain.substring(12) : link}

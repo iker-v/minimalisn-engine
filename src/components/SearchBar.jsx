@@ -5,7 +5,7 @@ import { useHistory } from 'react-router-dom';
 export const SearchBar = () => {
 
     const [text, setText] = useState('')
-    const { searchTerm, setSearchTerm, results, loading, getResults } = useStateContext()
+    const { searchTerm, setSearchTerm, getResults } = useStateContext()
     const navigate = useHistory()
 
     return (

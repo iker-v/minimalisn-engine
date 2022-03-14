@@ -1,7 +1,7 @@
 import React from 'react';
 import { SearchBar } from '../components/SearchBar';
 import Links from '../components/Links';
-import Results from '../components/Results'
+import { Results } from '../components/Results'
 
 export const SearchPage = () => {
   return (

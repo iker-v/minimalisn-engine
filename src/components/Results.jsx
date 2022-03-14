@@ -5,11 +5,10 @@ import { NormalResults } from './NormalResults';
 import { ImageResults } from './ImageResults';
 import { NewsResults } from './NewsResults';
 
-function Results() {
+export const Results = () => {
     const { loading, getResults, searchTerm, linkNav } = useStateContext()
 
     useEffect(() => {
-
         getResults(`${linkNav}/q=${searchTerm}&num=20`)
     }, [searchTerm, linkNav])
 
@@ -32,5 +31,3 @@ function Results() {
     
 
 }
-
-export default Results
