@@ -9,7 +9,7 @@ export const ImageResults = () => {
         <div className='flex flex-wrap max-w-xl'>
             { results?.image_results?.map( ({ image, link }, index) => {
                 return (
-                    <div>
+                    <div key={index}>
                         <a href={link.href} key={index}>
                             <img className="w-32 h-32 object-cover" src={image.src} alt={image.alt}  />
                         </a>
