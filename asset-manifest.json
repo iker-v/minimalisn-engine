@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minimalisn-engine/static/css/main.0b402b4b.css",
+    "main.js": "/minimalisn-engine/static/js/main.8b1e3f47.js",
+    "static/js/787.29e437c6.chunk.js": "/minimalisn-engine/static/js/787.29e437c6.chunk.js",
+    "index.html": "/minimalisn-engine/index.html",
+    "main.0b402b4b.css.map": "/minimalisn-engine/static/css/main.0b402b4b.css.map",
+    "main.8b1e3f47.js.map": "/minimalisn-engine/static/js/main.8b1e3f47.js.map",
+    "787.29e437c6.chunk.js.map": "/minimalisn-engine/static/js/787.29e437c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b402b4b.css",
+    "static/js/main.8b1e3f47.js"
+  ]
+}
