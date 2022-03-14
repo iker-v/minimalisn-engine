@@ -1,7 +1,7 @@
 # Minimalisn Search Engine
 ### Powered with Google API
 
-!("https://i.ibb.co/tx8cHmT/engine.gif")
+![Gif](https://i.ibb.co/tx8cHmT/engine.gif)
 
 ## Getting Started with Create React App
 
