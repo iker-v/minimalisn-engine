@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Minimalisn Search Engine
+### Powered with Google API
+https://i.gyazo.com/b56968d4e9aabf9bf2976fa8c666bc67.mp4
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
